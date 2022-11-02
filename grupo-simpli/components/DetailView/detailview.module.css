@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+}
+
+.detailBox{
+    height: 13rem;
+    width: 20rem;
+    border-bottom: solid 0.1rem;
+}
